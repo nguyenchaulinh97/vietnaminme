@@ -1,0 +1,5 @@
+{
+  "name": "Hệ Thống Thông Minh iHanoi",
+  "description": "Nền tảng giám sát đô thị và trí tuệ nhân tạo dành cho thế hệ trẻ Hà Nội, tích hợp camera iHanoi và xu hướng check-in.",
+  "requestFramePermissions": []
+}
